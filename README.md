@@ -113,3 +113,4 @@ Because Kavach runs in a browser tab, Ollama needs permission to accept requests
 - **Browser WebGPU Support**: Full hardware-accelerated WebGPU requires Chromium 113+, Edge, or Safari 18+ with hardware acceleration enabled. On unsupported GPUs or sandboxed VMs, switch to **Ollama (Local server)** or **Instant On-Device Runtime** in Onboarding or Settings.
 
 "# Kavach" 
+"# Hacktoberfest--kavach" 
