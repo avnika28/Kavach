@@ -1,0 +1,6 @@
+{
+  "name": "Kavach — Offline Personal AI Agent",
+  "description": "Sovereign, 100% offline personal AI agent running in-browser via WebGPU (WebLLM), with local IndexedDB memory, private document RAG, tool calling, and editorial design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
